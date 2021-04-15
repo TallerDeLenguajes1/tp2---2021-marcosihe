@@ -1,0 +1,4 @@
+2)f)
+El archivo creado en la rama "Opcion_2" no se puede visualizar en la rama master pues no se encuentra en ella. 
+Primero se debe traer ese cambio o archivo desde la rama donde se lo creó. Una opción es usar comando 'git merge', 
+para "traerlo" a la rama master y así luego poder visualizarlo.
