@@ -2,3 +2,6 @@
 El archivo creado en la rama "Opcion_2" no se puede visualizar en la rama master pues no se encuentra en ella. 
 Primero se debe traer ese cambio o archivo desde la rama donde se lo creó. Una opción es usar comando 'git merge', 
 para "traerlo" a la rama master y así luego poder visualizarlo.
+
+i) Al utilizar el comando 'gitk --all', se abre una interfaz en la cual se pueden observar las ramas de trabajo, 
+y los archivos que se encuentran en la rama actual de donde se utilizó el comando 'gitl --all'.
